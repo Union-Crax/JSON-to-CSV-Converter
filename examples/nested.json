@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Alice",
+    "profile": {
+      "email": "alice@example.com",
+      "social": {
+        "twitter": "@alice",
+        "github": "alice-dev"
+      }
+    },
+    "active": true
+  },
+  {
+    "name": "Bob",
+    "profile": {
+      "email": "bob@example.com",
+      "social": {
+        "twitter": "@bob",
+        "github": "bob-coder"
+      }
+    },
+    "active": false
+  }
+]

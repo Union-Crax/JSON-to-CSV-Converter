@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Alice",
+    "hobbies": ["reading", "coding", "gaming"],
+    "tags": ["developer", "python", "opensource"],
+    "scores": [95, 87, 92]
+  },
+  {
+    "name": "Bob",
+    "hobbies": ["photography", "travel"],
+    "tags": ["designer", "javascript"],
+    "scores": [88, 91]
+  }
+]
