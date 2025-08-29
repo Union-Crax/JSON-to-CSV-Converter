@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/yourusername/json2csv/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Union-Crax/json2csv/pulls)
 
 A tiny, practical command-line tool to convert JSON into CSV.
 
@@ -16,7 +16,7 @@ A tiny, practical command-line tool to convert JSON into CSV.
 
 ### Direct Download
 ```bash
-git clone https://github.com/yourusername/json2csv.git
+git clone https://github.com/Union-Crax/json2csv.git
 cd json2csv
 chmod +x json2csv.py
 ```
@@ -242,7 +242,7 @@ python json2csv.py examples/sample.json
 ### Development Setup
 
 ```bash
-git clone https://github.com/yourusername/json2csv.git
+git clone https://github.com/Union-Crax/json2csv.git
 cd json2csv
 python json2csv.py --help
 ```
